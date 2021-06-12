@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.shampoorang {
+	margin-top: 12rem;
+	margin-bottom: 4rem;
+}
+
+.shampoorang h2 {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.home-buttons-list {
+	flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.home-buttons-list button {
+	margin-bottom: 20px;
+    height: 3rem;
+    border-radius: 10px;
+}
+
+.home-buttons-list .login {
+	background-color: #3bc3ea;
+}
+
+.home-buttons-list .signin {
+	background-color: #91d6ea;
+}
+
+.home-buttons-list .guest {
+	background-color: #d1e8ef;
+}
